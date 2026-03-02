@@ -1,0 +1,10 @@
+datasets:
+  movie_data_path: "../data/raw/movies.csv"
+
+page_config:
+  page_title: "Movie Recommendation App"
+  page_icon: "images/icon.jpg"
+  layout: "wide"
+
+model:
+  path: "../artifacts/cosine_model.pkl"
