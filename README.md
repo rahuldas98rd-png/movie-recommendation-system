@@ -331,5 +331,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 <div align="center">
-Made with ❤️ | Built for learning and portfolio purposes
+
+*If this project helped you, consider giving it a ⭐ on Github!*
+
 </div>
